@@ -1,0 +1,55 @@
+
+
+.face {
+	background-color: yellow;
+	width: 350px;
+	height: 350px;
+	border-radius: 40%;
+	
+}
+.eyewrapper {
+	
+}
+.eye1 {
+	display: inline-block;
+	position: relative;
+	background-position: 25% 2%;
+	border-radius: 80%;
+
+	background-color: brown;
+	width: 80px;
+	height: 40px;
+	border: 5px;
+}
+.eye2 {
+	display: inline-block;
+	position: relative;
+	border-radius: 80%;
+	background-color: brown;
+	width: 80px;
+	height: 40px;
+}
+
+#nose {
+	position: relative;
+	width: 65px;
+	height: 105px;
+	background-color: black;
+	background-position: 50% 50%;
+}
+
+#leftear {
+
+}
+
+#rightear {
+
+}
+
+#upperlip {
+
+}
+
+#lowerlip {
+
+}
